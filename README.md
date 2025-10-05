@@ -1,2 +1,2 @@
 # SIH-2025-
-this is aquasense
+this project made for sih 2025
